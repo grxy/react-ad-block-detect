@@ -1,0 +1,56 @@
+{
+  "name": "react-ad-block-detect",
+  "version": "1.0.0",
+  "description": "A React component that renders its children if an ad blocker is detected",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack -p",
+    "coverage": "coveralls < coverage/lcov.info",
+    "lint": "eslint src",
+    "prepublish": "npm run build",
+    "test": "jest -c jest.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grxy/react-ad-block-detect.git"
+  },
+  "keywords": [
+    "react",
+    "adblock",
+    "ad-block",
+    "ad-block-detect",
+    "adblockdetect",
+    "adblock-detect",
+    "ad",
+    "block",
+    "detect",
+    "ad blocker"
+  ],
+  "author": "https://github.com/grxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grxy/react-ad-block-detect/issues"
+  },
+  "homepage": "https://github.com/grxy/react-ad-block-detect#readme",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-eslint": "^7.1.1",
+    "babel-jest": "^19.0.0",
+    "babel-loader": "^6.4.0",
+    "babel-preset-env": "^1.2.1",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "coveralls": "^2.12.0",
+    "enzyme": "^2.7.1",
+    "eslint": "^3.17.1",
+    "eslint-plugin-react": "^6.10.0",
+    "jest-cli": "^19.0.2",
+    "react-addons-test-utils": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "adblockdetect": "^0.0.1",
+    "react": "^15.4.2"
+  }
+}
