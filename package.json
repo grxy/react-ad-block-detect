@@ -1,6 +1,6 @@
 {
   "name": "react-ad-block-detect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component that renders its children if an ad blocker is detected",
   "main": "dist/index.js",
   "scripts": {
