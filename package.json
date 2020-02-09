@@ -50,7 +50,7 @@
     "webpack": "^2.2.1"
   },
   "dependencies": {
-    "adblockdetect": "^0.0.1",
+    "adblockdetect": "^0.0.2",
     "react": "^15.4.2"
   }
 }

@@ -36,9 +36,9 @@ acorn@^3.0.4:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-3.3.0.tgz#45e37fb39e8da3f25baee3ff5369e2bb5f22017a"
 
-adblockdetect@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/adblockdetect/-/adblockdetect-0.0.1.tgz#fad5989ed5bcca41895bb71ade164b68a5f8450d"
+adblockdetect@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/adblockdetect/-/adblockdetect-0.0.2.tgz#980e245c74ddc7f57580ba990d29b6c6389e2963"
 
 ajv-keywords@^1.0.0, ajv-keywords@^1.1.1:
   version "1.5.1"
