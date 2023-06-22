@@ -46,11 +46,11 @@
     "eslint-plugin-react": "^6.10.0",
     "jest-cli": "^19.0.2",
     "react-addons-test-utils": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react-dom": "^18.0.0",
     "webpack": "^2.2.1"
   },
   "dependencies": {
     "adblockdetect": "^0.0.1",
-    "react": "^15.4.2"
+    "react": "^18.0.0"
   }
 }
